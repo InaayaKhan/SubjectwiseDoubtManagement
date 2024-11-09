@@ -1,4 +1,4 @@
-# SubjectwiseDoubtManagement
+# Classroom Chatroom
 
 Instructions for how to setup:
 
